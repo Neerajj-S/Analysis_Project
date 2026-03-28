@@ -1,6 +1,8 @@
 # 🇮🇳 India Energy Crisis 2026: Strategic Impact Dashboard
 ### Real-Time Monitoring & Policy Simulation of the Hormuz Chokepoint Disruption
 
+## 🚀 [CLICK HERE TO VIEW THE LIVE DASHBOARD]([https://your-app-link.streamlit.app](https://india-gas-crisis-2026-2hglmtn8yjkpanhepf8w96.streamlit.app/Dashboard))
+> **Note:** Best viewed on Desktop or Tablet. Use the sidebar to navigate between Home and the Analysis Dashboard.
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://india-gas-crisis-2026-2hglmtn8yjkpanhepf8w96.streamlit.app/Dashboard)
 
 ## 📊 Executive Summary
