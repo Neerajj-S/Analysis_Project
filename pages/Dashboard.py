@@ -134,7 +134,19 @@ with tab3:
 # --- TAB 4: PIVOT ---
 with tab4:
     st.subheader("⚡ Consumer Pivot to Electric")
-    st.plotly_chart(px.line(filtered_data.groupby('Date').mean().reset_index(), x='Date', y='Search Interest (Induction)', template="plotly_dark"), use_container_width=True)
+    # Change this:
+    # filtered_data.groupby('Date').mean()
+    
+    # To this:
+    st.plotly_chart(
+        px.line(
+            filtered_data.groupby('Date').mean(numeric_only=True).reset_index(), 
+            x='Date', 
+            y='Search Interest (Induction)', 
+            template="plotly_dark"
+        ), 
+        use_container_width=True
+    )
     
     # 📝 Insight for Tab 4
     st.info("""
