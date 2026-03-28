@@ -1,7 +1,7 @@
 # 🇮🇳 India Energy Crisis 2026: Strategic Impact Dashboard
 ### Real-Time Monitoring & Policy Simulation of the Hormuz Chokepoint Disruption
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://india-gas-crisis-2026-2hglmtn8yjkpanhepf8w96.streamlit.app/Dashboard)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://india-gas-crisis-2026-2hglmtn8yjkpanhepf8w96.streamlit.app/Dashboard)
 
 ## 📊 Executive Summary
 As of **March 2026**, India is facing a critical energy supply shock due to the partial closure of the **Strait of Hormuz**. With nearly 60% of India's LPG/LNG imports passing through this corridor, the domestic market is experiencing unprecedented price volatility and supply-side "War Shocks." 
